@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WolfRamm-dev
 - 👀 I’m interested in computer science, gamedev, biology and music.
-- 🌱 I’m currently learning for university.
+- 🌱 I’m currently studying for university.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: here and under @WolfRammmm on Twitter.
 
